@@ -4,7 +4,7 @@
     "description": "Discord Web API Client.",
     "keywords": ["discord", "discord-api" "api-client", "api-wrapper"],
     "homepage": "https://github.com/Xeloses/discord-web-client",
-    "license": "GNU GPL v3",
+    "license": "GPL-3.0",
     "authors": [
         {"name": "Xeloses"}
     ],
