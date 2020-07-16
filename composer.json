@@ -1,0 +1,21 @@
+{
+    "name": "xeloses/discord-web-client",
+    "type": "library",
+    "description": "Discord Web API Client.",
+    "keywords": ["discord", "discord-api" "api-client", "api-wrapper"],
+    "homepage": "https://github.com/Xeloses/discord-web-client",
+    "license": "GNU GPL v3",
+    "authors": [
+        {"name": "Xeloses"}
+    ],
+    "require": {
+        "php": "^7.1",
+        "textalk/websocket": "^1.3",
+        "xeloses/resty": "^1.0",
+    },
+    "autoload": {
+        "psr-4": {
+            "Xeloses\\DiscordWebClient\\": "lib"
+        }
+    }
+}
